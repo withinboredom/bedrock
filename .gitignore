@@ -2,6 +2,8 @@
 web/app/plugins/*
 !web/app/plugins/.gitkeep
 web/app/mu-plugins/*
+web/app/themes/*
+!web/app/themes/.gitkeep
 !web/app/mu-plugins/.gitkeep
 web/app/upgrade
 web/app/uploads/*
@@ -19,7 +21,6 @@ db-sync
 sql-dump-*.sql
 
 # Dotenv
-.env
 .env.*
 !.env.example
 
@@ -33,3 +34,6 @@ node_modules
 # Vagrant
 bin
 .vagrant
+
+# IDEA
+.idea/*

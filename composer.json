@@ -43,7 +43,12 @@
     "php": ">=5.4",
     "johnpbloch/wordpress": "4.1",
     "composer/installers": "v1.0.12",
-    "vlucas/phpdotenv": "1.0.9"
+    "vlucas/phpdotenv": "1.0.9",
+    "wpackagist-plugin/akismet": "3.0.4",
+    "wpackagist-plugin/google-analytics-for-wordpress": "5.3",
+    "wpackagist-plugin/google-sitemap-generator": "4.0.8",
+    "wpackagist-plugin/jetpack": "3.3",
+    "wpackagist-theme/nirvana": "1.0.4"
   },
   "extra": {
     "installer-paths": {
